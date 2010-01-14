@@ -1,0 +1,8 @@
+# CCPL
+
+CCPL is a project where different tasks are solved in different computer programming languages. CCPL is short for "Comparison of Computer Programming Languages". There are many things you can use it for, for instance:
+
+* Get exercies in a language
+* Look at how various tasks are performed in different languages
+
+So, get hackin'! Create a challenge, and solve it in your language of choice. Or solve a challenge made by someone else.
