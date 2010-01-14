@@ -9,4 +9,4 @@ So, get hackin'! Create a challenge, and solve it in your language of choice. Or
 
 # Rules
 
-You are always welcome to make a challenge, and request to merge your code in! The same goes for challenges. Furthermore, if you think you can optimize somebody elses work, do so - and request to merge it in!
+You are always welcome to make a challenge, and do a pull request! The same goes for challenges. Furthermore, if you think you can optimize somebody elses work, do so followed by a pull request!
