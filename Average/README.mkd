@@ -1,0 +1,2 @@
+# Average
+Task is to create a function which accepts unlimited parameters, returning the float average value.
