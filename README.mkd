@@ -6,3 +6,7 @@ CCPL is a project where different tasks are solved in different computer program
 * Look at how various tasks are performed in different languages
 
 So, get hackin'! Create a challenge, and solve it in your language of choice. Or solve a challenge made by someone else.
+
+# Rules
+
+You are always welcome to make a challenge, and request to merge your code in! The same goes for challenges. Furthermore, if you think you can optimize somebody elses work, do so - and request to merge it in!
